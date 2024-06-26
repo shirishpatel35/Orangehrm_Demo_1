@@ -1,0 +1,5 @@
+[32mINFO    [0m Test_Url_Login:Test_Login.py:67 opening browser
+[32mINFO    [0m Test_Url_Login:Test_Login.py:69 Going to Url
+[32mINFO    [0m Test_Url_Login:Test_Login.py:71 Checking Page title
+[32mINFO    [0m Test_Url_Login:Test_Login.py:73 test_Url_001 is passed
+[32mINFO    [0m Test_Url_Login:Test_Login.py:81 test_Url_001 is completed

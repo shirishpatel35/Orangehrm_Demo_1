@@ -1,0 +1,5 @@
+[32mINFO    [0m Test_Url_Login:Test_Login.py:85 opening browser
+[32mINFO    [0m Test_Url_Login:Test_Login.py:87 Going to Url
+[32mINFO    [0m Test_Url_Login:Test_Login.py:93 Clicked on Login Button
+[32mINFO    [0m Test_Url_Login:Test_Login.py:95 test_Login_002 is passed
+[32mINFO    [0m Test_Url_Login:Test_Login.py:105 test_Login_002 is completed

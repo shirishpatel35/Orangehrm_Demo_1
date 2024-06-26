@@ -1,0 +1,18 @@
+[32mINFO    [0m Test_Login_DDT:Test_Login_ddt.py:18 opening browser
+[32mINFO    [0m Test_Login_DDT:Test_Login_ddt.py:20 Going to Url
+[32mINFO    [0m Test_Login_DDT:Test_Login_ddt.py:32 Enter Username -->Admin
+[32mINFO    [0m Test_Login_DDT:Test_Login_ddt.py:34 Enter Password -->admin123
+[32mINFO    [0m Test_Login_DDT:Test_Login_ddt.py:36 Clicked on Login Button
+[32mINFO    [0m Test_Login_DDT:Test_Login_ddt.py:45 Click on Menu Button
+[32mINFO    [0m Test_Login_DDT:Test_Login_ddt.py:47 Click on Logout Button
+[32mINFO    [0m Test_Login_DDT:Test_Login_ddt.py:32 Enter Username -->Admin12
+[32mINFO    [0m Test_Login_DDT:Test_Login_ddt.py:34 Enter Password -->admin123
+[32mINFO    [0m Test_Login_DDT:Test_Login_ddt.py:36 Clicked on Login Button
+[32mINFO    [0m Test_Login_DDT:Test_Login_ddt.py:32 Enter Username -->Admin
+[32mINFO    [0m Test_Login_DDT:Test_Login_ddt.py:34 Enter Password -->admin321
+[32mINFO    [0m Test_Login_DDT:Test_Login_ddt.py:36 Clicked on Login Button
+[32mINFO    [0m Test_Login_DDT:Test_Login_ddt.py:32 Enter Username -->Admin12
+[32mINFO    [0m Test_Login_DDT:Test_Login_ddt.py:34 Enter Password -->admin321
+[32mINFO    [0m Test_Login_DDT:Test_Login_ddt.py:36 Clicked on Login Button
+[32mINFO    [0m Test_Login_DDT:Test_Login_ddt.py:76 test_login_ddt_004 is Passed
+[32mINFO    [0m Test_Login_DDT:Test_Login_ddt.py:82 test_login_ddt_004 is completed

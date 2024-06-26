@@ -1,0 +1,7 @@
+[32mINFO    [0m Test_Url_Login:Test_Login_Params.py:17 opening browser
+[32mINFO    [0m Test_Url_Login:Test_Login_Params.py:19 Going to Url
+[32mINFO    [0m Test_Url_Login:Test_Login_Params.py:23 Enter Username -->Admin
+[32mINFO    [0m Test_Url_Login:Test_Login_Params.py:25 Enter Password -->admin321
+[32mINFO    [0m Test_Url_Login:Test_Login_Params.py:27 Clicked on Login Button
+[32mINFO    [0m Test_Url_Login:Test_Login_Params.py:63 test_login_params_003 is Passed
+[32mINFO    [0m Test_Url_Login:Test_Login_Params.py:69 test_login_params_003 is completed
